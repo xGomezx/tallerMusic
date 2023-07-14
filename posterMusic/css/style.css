@@ -1,0 +1,152 @@
+
+ @import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;700&family=Open+Sans:wght@300&family=Roboto:wght@500&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.supp{
+    background: url("../images/angel.jpg");
+    width: 100%;
+    height: 950px;
+    background-size: cover;
+    text-align: center;
+}
+.titulo{
+    padding-top: 330px;
+    font-family: 'Karla', sans-serif;
+    color: white;
+    font-size: 250px;
+    font-weight: 300;
+}
+.naranja{
+    color:#fb636c ;
+    float: left;
+    font-size: 65px;
+}
+.violeta{
+    color: #db0673;
+    float: left;
+    font-size: 65px;
+}
+.normal{
+    font-size: 65px;
+}
+.info-negra{
+    margin: 20px 0;
+    font-size: 20px;
+}
+.clear{
+    clear: both;
+}
+input{
+    background: #FD4C5C;
+    border: #FD4C5C 1px solid ;
+    border-radius: 20px;
+    padding: 10px 35px;
+    color: white;
+    cursor:pointer;
+}
+.part1{
+    font-family: 'Karla', sans-serif;
+    width: 665px;
+    float: left;
+    margin: 200px 0 50px 400px;
+}
+.imagen1{
+    float: right;
+    margin-right: 200px;
+    margin-top: 100px;
+    height: 700px;
+}
+.part2{
+    font-family: 'Karla', sans-serif;
+    margin: 200px 120px 50px 0px;
+    width: 665px;
+    float: right;
+}
+.imagen2{
+    float: left;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    height: 700px;
+}
+.inferior{
+    background: url("../images/raptis.png");
+    width: 100%;
+    height: 790px;
+    margin-top: 100px;
+}
+.parte3{
+    font-family: 'Karla', sans-serif;
+    margin: 175px 120px 50px 0px;
+    width: 665px;
+    float: right;
+}
+.blanco{
+    color: white;
+    font-size: 65px;
+}
+.info-blanca{
+    color: white;
+    margin: 20px 0;
+    font-size: 20px;
+}footer{
+    background: #FD4C5C;
+}
+a{
+    color: white;
+    text-decoration: none;
+    margin-top: 10px;
+}
+.links{
+    font-family: 'Karla', sans-serif;
+}
+.links1{
+    color: white;
+    float: left;
+    margin: 50px 50px 50px 380px ;
+    width: 85px;
+}
+.links2{
+    float: left;
+    margin: 50px 50px 50px 130px ;
+    width: 95px;
+}
+.links3{
+    margin: 50px 600px 50px 50px ;
+    float: right;
+    width: 85px;
+}
+.links4{
+    margin: 50px 170px 50px 50px ;
+    float: right;
+    width: 85px;
+}
+li{
+    list-style: none;
+    margin: 7px 0;
+}
+.first{
+    margin-bottom: 45px;
+}
+.copy{
+    color: white;
+    float: left;
+    
+}
+.email{
+    color: #fff;
+    float: right;
+    font-family: 'Karla', sans-serif;
+}
+
+.contact{
+    font-family: 'Karla', sans-serif;
+    padding: 30px 0 40px 0;
+    border-top: 1px solid #fff;
+    width: 60%;
+    margin-left: 380px;
+}
